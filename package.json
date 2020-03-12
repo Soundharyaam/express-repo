@@ -1,0 +1,22 @@
+{
+  "name": "Sample project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soundharyaam/express-repo.git"
+  },
+  "author": "Soundharya AM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soundharyaam/express-repo/issues"
+  },
+  "homepage": "https://github.com/Soundharyaam/express-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
